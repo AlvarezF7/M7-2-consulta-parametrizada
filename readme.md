@@ -35,7 +35,7 @@ Permite crear, listar, modificar y eliminar clientes mediante un **frontend inte
 
 ## Uso
 1. Configurar el archivo .env_ejemplo con las credenciales de tu base de datos. 
-2. Instalar dependencias bsch npm install
+2. Instalar dependencias  npm install
 3. Ejecutar Servidor npm start
 4. Abrir Navegador http://localhost:3000.
 
