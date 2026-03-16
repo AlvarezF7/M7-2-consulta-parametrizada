@@ -1,4 +1,4 @@
-# M7-1-Proyecto Node + PostgreSQL
+# M7-2-Proyecto Node + PostgreSQL
 
 ## Descripción
 Proyecto de ejemplo para gestionar clientes utilizando Node.js, Express, PostgreSQL y JavaScript en el frontend.  
