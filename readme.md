@@ -42,6 +42,7 @@ Permite crear, listar, modificar y eliminar clientes mediante un **frontend inte
 
 # Notas 
 - La lista de clientes solo se despliega al presionar el botón “Listar Todos”.
+- Para probar la conección a postgress, la tabla de este ejercicio es **clientes_t2**, ya que este proyecto esta dentro de la base de datos **finanzas_m7** y si lista clientes saldra la tabla del ejercicio anterior.
 - Para actualizar la lista despues de  modificar o crear un cliente, debes cerrar la lista y hacer clic en el boton listar todos.
 - Los botones de acción muestran alertas y mensajes de error según la respuesta del servidor.
 
